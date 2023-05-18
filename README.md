@@ -1,5 +1,5 @@
-## **Premier-League-Table-Prediction**
-<br> ### **Contributors:**
+## **Premier-League-Table-Prediction** <br>
+### **Contributors:**
 
 Tejeswara Nehru (U2220197K) - Exploratory Data Analysis, Q1, Linear Regression
 Michael Santoso (U2221525L) - Insights and Outcomes, Q2, Neural Network Model
